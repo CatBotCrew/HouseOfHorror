@@ -1,0 +1,1445 @@
+﻿Log file open, 10/26/19 16:45:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: HouseOfHorror
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.099616
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=katareus -epicuserid=d8995868f55d44518bf65aa2ef4e43db -epiclocale=en-GB
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Engine.ini]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Engine.ini]
+[2019.10.26-14.45.43:738][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Engine.ini]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Engine.ini]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.26-14.45.43:738][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Engine.ini]
+[2019.10.26-14.45.43:738][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Engine.ini]
+[2019.10.26-14.45.43:741][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.26-14.45.43:741][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.26-14.45.43:742][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.26-14.45.43:742][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.26-14.45.43:742][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.26-14.45.43:744][  0]LogHAL: Display: Platform has ~ 16 GB [17022431232 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.26-14.45.43:744][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.26-14.45.43:744][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-14.45.43:744][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.26-14.45.43:744][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.26-14.45.43:744][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-14.45.43:744][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.26-14.45.43:744][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-14.45.43:744][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.26-14.45.43:744][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.26-14.45.43:744][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.26-14.45.43:744][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.26-14.45.43:744][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.26-14.45.43:744][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.26-14.45.43:744][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.26-14.45.43:744][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.26-14.45.43:744][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.26-14.45.43:744][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.26-14.45.43:745][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.26-14.45.43:746][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Config/Windows/Engine.ini]
+[2019.10.26-14.45.43:746][  0]LogInit: Computer: LAPTOP-N1MLQP4I
+[2019.10.26-14.45.43:746][  0]LogInit: User: tash1
+[2019.10.26-14.45.43:746][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.10.26-14.45.43:746][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.26-14.45.43:746][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.26-14.45.43:746][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.26-14.45.43:746][  0]LogMemory: Process Physical Memory: 104.08 MB used, 104.08 MB peak
+[2019.10.26-14.45.43:746][  0]LogMemory: Process Virtual Memory: 89.82 MB used, 89.82 MB peak
+[2019.10.26-14.45.43:746][  0]LogMemory: Physical Memory: 9986.44 MB used,  6247.42 MB free, 16233.86 MB total
+[2019.10.26-14.45.43:746][  0]LogMemory: Virtual Memory: 4675.24 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.10.26-14.45.44:073][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.26-14.45.44:097][  0]LogInit: Using OS detected language (en-GB).
+[2019.10.26-14.45.44:097][  0]LogInit: Using OS detected locale (en-ZA).
+[2019.10.26-14.45.44:097][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.10.26-14.45.44:289][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.26-14.45.44:374][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.26-14.45.44:374][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.26-14.45.44:636][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.26-14.45.44:636][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.26-14.45.44:716][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2019.10.26-14.45.44:716][  0]LogD3D11RHI:       8031/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.26-14.45.44:726][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.10.26-14.45.44:726][  0]LogD3D11RHI:       128/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.10.26-14.45.44:729][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.26-14.45.44:729][  0]LogD3D11RHI:       0/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.26-14.45.44:729][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.26-14.45.44:760][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.26-14.45.44:760][  0]LogD3D11RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.26-14.45.44:760][  0]LogWindows: EnumDisplayDevices:
+[2019.10.26-14.45.44:760][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.10.26-14.45.44:760][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.26-14.45.44:761][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.26-14.45.44:761][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2019.10.26-14.45.44:761][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2019.10.26-14.45.44:761][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2019.10.26-14.45.44:762][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2019.10.26-14.45.44:762][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.10.26-14.45.44:762][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2019.10.26-14.45.44:762][  0]LogD3D11RHI:   Driver Version: 417.22 (internal:25.21.14.1722, unified:417.22)
+[2019.10.26-14.45.44:762][  0]LogD3D11RHI:      Driver Date: 11-29-2018
+[2019.10.26-14.45.44:762][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2019.10.26-14.45.44:811][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.26-14.45.44:838][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.10.26-14.45.45:188][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.26-14.45.45:200][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.26-14.45.45:210][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.26-14.45.45:220][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.26-14.45.45:232][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.26-14.45.45:241][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.26-14.45.45:250][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.26-14.45.45:261][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.26-14.45.45:265][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.26-14.45.45:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.26-14.45.45:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.26-14.45.45:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.26-14.45.45:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.26-14.45.45:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.26-14.45.45:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.26-14.45.45:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.26-14.45.45:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.26-14.45.45:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.26-14.45.45:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.26-14.45.45:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.26-14.45.45:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.26-14.45.45:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.26-14.45.45:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.26-14.45.45:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.26-14.45.45:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.26-14.45.45:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.26-14.45.45:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.26-14.45.45:308][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.26-14.45.45:331][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.26-14.45.45:331][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.26-14.45.45:347][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.26-14.45.45:347][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.26-14.45.45:355][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.26-14.45.45:362][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.26-14.45.45:369][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.26-14.45.45:376][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.26-14.45.45:398][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.26-14.45.45:398][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.26-14.45.45:398][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.26-14.45.45:409][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.26-14.45.45:466][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Intermediate/Shaders/WorkingDirectory/18268/).
+[2019.10.26-14.45.45:466][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tash1/AppData/Local/Temp/UnrealShaderWorkingDir/C10E52644CB76C181E6E9ABDBD747DC6/'.
+[2019.10.26-14.45.45:468][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.26-14.45.45:469][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.26-14.45.45:469][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.26-14.45.46:079][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.26-14.45.46:141][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/tash1/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.26-14.45.46:141][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tash1/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.26-14.45.46:141][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.26-14.45.46:141][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.26-14.45.46:141][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.26-14.45.46:141][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.26-14.45.46:152][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.26-14.45.46:152][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.26-14.45.46:152][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.26-14.45.46:153][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tash1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.26-14.45.46:154][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.26-14.45.46:154][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.26-14.45.46:174][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.26-14.45.46:177][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.26-14.45.46:177][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.26-14.45.46:227][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2019.10.26-14.45.46:533][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.26-14.45.46:713][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.26-14.45.46:713][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.26-14.45.46:713][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.26-14.45.46:713][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.26-14.45.46:713][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.26-14.45.46:723][  0]LogNetVersion: HouseOfHorror 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 420452551)
+[2019.10.26-14.45.47:169][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.047480 seconds
+[2019.10.26-14.45.47:177][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.26-14.45.47:177][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.26-14.45.47:177][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.26-14.45.47:972][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.26-14.45.48:011][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.26-14.45.48:210][  0]SourceControl: Source control is disabled
+[2019.10.26-14.45.48:210][  0]SourceControl: Source control is disabled
+[2019.10.26-14.45.48:212][  0]SourceControl: Source control is disabled
+[2019.10.26-14.45.48:213][  0]SourceControl: Source control is disabled
+[2019.10.26-14.45.48:304][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.26-14.45.50:555][  0]LogOcInput: OculusInput pre-init called
+[2019.10.26-14.45.50:562][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.26-14.45.50:562][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.26-14.45.50:630][  0]LogEngine: Initializing Engine...
+[2019.10.26-14.45.50:631][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.26-14.45.50:631][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.26-14.45.50:826][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.26-14.45.50:841][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.26-14.45.50:908][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.26-14.45.51:046][  0]LogInit: FAudioDevice initialized.
+[2019.10.26-14.45.51:047][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.26-14.45.51:102][  0]LogDerivedDataCache: Saved boot cache 0.06s 77MB C:/Users/tash1/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.26-14.45.51:109][  0]LogInit: Texture streaming: Enabled
+[2019.10.26-14.45.51:126][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.26-14.45.51:126][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.10.26-14.45.51:127][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.10.26-14.45.51:155][  0]LogInit: Transaction tracking system initialized
+[2019.10.26-14.45.51:189][  0]BlueprintLog: New page: Editor Load
+[2019.10.26-14.45.51:315][  0]LocalizationService: Localization service is disabled
+[2019.10.26-14.45.51:569][  0]LogFileCache: Scanning file cache for directory 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/' took 0.00s
+[2019.10.26-14.45.51:569][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.26-14.45.51:569][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.26-14.45.51:737][  0]SourceControl: Source control is disabled
+[2019.10.26-14.45.51:738][  0]Cmd: MAP LOAD FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.26-14.45.51:738][  0]LightingResults: New page: Lighting Build
+[2019.10.26-14.45.51:740][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-14.45.51:741][  0]MapCheck: New page: Map Check
+[2019.10.26-14.45.51:741][  0]LightingResults: New page: Lighting Build
+[2019.10.26-14.45.51:771][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.10.26-14.45.51:862][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.26-14.45.51:868][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.26-14.45.51:895][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.10.26-14.45.51:895][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.26-14.45.51:896][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,139ms to complete.
+[2019.10.26-14.45.51:896][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.159
+[2019.10.26-14.45.51:985][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-14.45.51:992][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-14.45.52:000][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-14.45.52:008][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-14.45.52:015][  0]LogCollectionManager: Loaded 0 collections in 0.001873 seconds
+[2019.10.26-14.45.52:022][  0]LogFileCache: Scanning file cache for directory 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/Collections/' took 0.00s
+[2019.10.26-14.45.52:022][  0]LogFileCache: Scanning file cache for directory 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Developers/tash1/Collections/' took 0.00s
+[2019.10.26-14.45.52:022][  0]LogFileCache: Scanning file cache for directory 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Collections/' took 0.00s
+[2019.10.26-14.45.52:022][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.26-14.45.52:030][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2865 classes and 682 folders.
+[2019.10.26-14.45.52:039][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.26-14.45.52:074][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.26-14.45.52:080][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.10.26-14.45.52:156][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.26-14.45.52:159][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.26-14.45.52:163][  0]LogSlate: Took 0.000430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.26-14.45.52:234][  0]LogRenderer: Reallocating scene render targets to support 964x512 Format 10 NumSamples 1 (Frame:1).
+[2019.10.26-14.45.52:433][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.10.26-14.45.52:433][  0]LogLoad: (Engine Initialization) Total time: 9.72 seconds
+[2019.10.26-14.45.52:433][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.26-14.45.52:485][  0]LogAssetRegistry: Asset discovery search completed in 6.2581 seconds
+[2019.10.26-14.45.52:489][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.10.26-14.45.52:489][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000073 seconds (updated 0 objects)
+[2019.10.26-14.45.52:491][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.26-14.45.52:508][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.26-14.45.58:302][351]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
+[2019.10.26-14.46.19:161][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-14.46.19:305][557]Candidate modules for hot reload:
+[2019.10.26-14.46.19:305][557]  HouseOfHorror
+[2019.10.26-14.46.19:305][557]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=HouseOfHorror,7649 Win64 Development -TargetType=Editor -Project="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/HouseOfHorror.uproject" "D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/HouseOfHorror.uproject"  -IgnoreJunk]
+[2019.10.26-14.46.19:309][557]Warning: Starting HotReload took  0.1s.
+[2019.10.26-14.46.30:927][406]CompilerResultsLog: New page: Compilation - 26 Oct 2019, 6:46:30 PM
+[2019.10.26-14.46.30:927][406]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\CatBotCrewRepos\HouseOfHorror).
+[2019.10.26-14.46.30:927][406]CompilerResultsLog: Parsing headers for HouseOfHorrorEditor
+[2019.10.26-14.46.30:927][406]CompilerResultsLog:   Running UnrealHeaderTool "D:\CatBotCrewRepos\HouseOfHorror\HouseOfHorror\HouseOfHorror.uproject" "D:\CatBotCrewRepos\HouseOfHorror\HouseOfHorror\Intermediate\Build\Win64\HouseOfHorrorEditor\Development\HouseOfHorrorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.10.26-14.46.30:927][406]CompilerResultsLog: Reflection code generated for HouseOfHorrorEditor in 8,4212388 seconds
+[2019.10.26-14.46.30:927][406]CompilerResultsLog: Using Visual Studio 2019 14.22.27905 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.10.26-14.46.30:928][406]CompilerResultsLog: Building 3 actions with 12 processes...
+[2019.10.26-14.46.30:928][406]CompilerResultsLog:   [1/3] UE4Editor-HouseOfHorror-7649.lib
+[2019.10.26-14.46.30:928][406]CompilerResultsLog:      Creating library D:\CatBotCrewRepos\HouseOfHorror\HouseOfHorror\Intermediate\Build\Win64\UE4Editor\Development\HouseOfHorror\UE4Editor-HouseOfHorror-7649.lib and object D:\CatBotCrewRepos\HouseOfHorror\HouseOfHorror\Intermediate\Build\Win64\UE4Editor\Development\HouseOfHorror\UE4Editor-HouseOfHorror-7649.exp
+[2019.10.26-14.46.30:928][406]CompilerResultsLog:   [2/3] UE4Editor-HouseOfHorror-7649.dll
+[2019.10.26-14.46.30:928][406]CompilerResultsLog:      Creating library D:\CatBotCrewRepos\HouseOfHorror\HouseOfHorror\Intermediate\Build\Win64\UE4Editor\Development\HouseOfHorror\UE4Editor-HouseOfHorror-7649.suppressed.lib and object D:\CatBotCrewRepos\HouseOfHorror\HouseOfHorror\Intermediate\Build\Win64\UE4Editor\Development\HouseOfHorror\UE4Editor-HouseOfHorror-7649.suppressed.exp
+[2019.10.26-14.46.30:928][406]CompilerResultsLog:   [3/3] HouseOfHorrorEditor.target
+[2019.10.26-14.46.30:928][406]CompilerResultsLog: Total time in Parallel executor: 1,46 seconds
+[2019.10.26-14.46.30:928][406]CompilerResultsLog: Total execution time: 11,47 seconds
+[2019.10.26-14.46.30:928][406]LogMainFrame: MainFrame: Module compiling took 11.635 seconds
+[2019.10.26-14.46.30:954][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.10.26-14.46.30:986][406]LogContentBrowser: Native class hierarchy updated for 'HouseOfHorror' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2019.10.26-14.46.30:990][406]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.10.26-14.46.31:053][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.10.26-14.46.31:066][406]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2866 classes and 684 folders.
+[2019.10.26-14.46.31:069][406]Display: HotReload took 11.8s.
+[2019.10.26-14.46.34:542][673]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.26-14.46.34:562][673]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.26-14.46.34:563][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-14.46.34:564][673]PIE: New page: PIE session: ThirdPersonExampleMap (26 Oct 2019, 6:46:34 PM)
+[2019.10.26-14.46.34:567][673]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.26-14.46.34:570][673]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.26-14.46.34:589][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019112s)
+[2019.10.26-14.46.34:591][673]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.26-14.46.34:592][673]LogPlayLevel: PIE: World Init took: (0.002569s)
+[2019.10.26-14.46.34:592][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022037s)
+[2019.10.26-14.46.34:621][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.10.26-14.46.34:632][673]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.26-14.46.34:711][673]LogInit: FAudioDevice initialized.
+[2019.10.26-14.46.34:726][673]LogLoad: Game class is 'HouseOfHorrorGameMode'
+[2019.10.26-14.46.34:735][673]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.10.26-16.46.34
+[2019.10.26-14.46.34:738][673]LogWorld: Bringing up level for play took: 0.005085
+[2019.10.26-14.46.34:739][673]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.10.26-14.46.34:785][673]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.10.26-14.46.34:788][673]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,921
+[2019.10.26-14.46.34:788][673]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.26-14.47.00:563][468]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-14.47.01:576][574]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.26-14.47.01:579][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-14.47.01:579][574]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.26-14.47.01:579][574]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-14.47.01:591][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-14.47.01:591][574]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.26-14.47.01:626][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-14.47.01:629][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.10.26-14.47.01:675][578]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.10.26-14.47.35:347][942]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.26-14.47.35:365][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tash" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/Tash.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-14.47.35:393][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.10.26-14.47.35:413][942]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/TashA5499AF444D0BBF869C9B3A46A8396E0.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/Tash.umap'
+[2019.10.26-14.47.35:419][942]LogFileHelpers: Saving map 'Tash' took 0.056
+[2019.10.26-14.47.36:929][ 96]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Tash.Tash
+[2019.10.26-14.47.36:955][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.10.26-14.47.36:956][ 96]Cmd: MAP LOAD FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/Tash.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.26-14.47.36:956][ 96]LightingResults: New page: Lighting Build
+[2019.10.26-14.47.36:957][ 96]LoadErrors: New page: Loading map: Tash.umap
+[2019.10.26-14.47.36:957][ 96]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-14.47.36:957][ 96]MapCheck: New page: Map Check
+[2019.10.26-14.47.36:957][ 96]LightingResults: New page: Lighting Build
+[2019.10.26-14.47.36:985][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.10.26-14.47.37:037][ 96]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.26-14.47.37:037][ 96]LogAIModule: Creating AISystem for world Tash
+[2019.10.26-14.47.37:062][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.10.26-14.47.37:079][ 96]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.26-14.47.37:079][ 96]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,131ms to complete.
+[2019.10.26-14.47.37:080][ 96]LogFileHelpers: Loading map 'Tash' took 0.125
+[2019.10.26-14.47.45:982][997]LogObjectTools: Deleting 1 worlds: /Game/Maps/Tash.Tash
+[2019.10.26-14.47.45:982][997]LogObjectTools: Currently 3 active worlds: /Game/Maps/Tash.Tash, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2019.10.26-14.47.49:152][997]LogSlate: Window 'Unable to delete level' being destroyed
+[2019.10.26-14.47.52:323][322]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.26-14.47.52:393][322]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.10.26-14.47.52:420][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.10.26-14.47.52:421][322]Cmd: MAP LOAD FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.26-14.47.52:421][322]LightingResults: New page: Lighting Build
+[2019.10.26-14.47.52:422][322]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.10.26-14.47.52:422][322]LogWorld: UWorld::CleanupWorld for Tash, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-14.47.52:422][322]MapCheck: New page: Map Check
+[2019.10.26-14.47.52:422][322]LightingResults: New page: Lighting Build
+[2019.10.26-14.47.52:449][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.10.26-14.47.52:550][322]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.26-14.47.52:577][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.10.26-14.47.52:590][322]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.26-14.47.52:590][322]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,087ms to complete.
+[2019.10.26-14.47.52:590][322]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.170
+[2019.10.26-14.47.57:771][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.10.26-14.47.57:856][806]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.26-14.48.00:157][952]LogAIModule: Creating AISystem for world Tash
+[2019.10.26-14.48.00:166][952]LogObjectTools: Deleting 1 worlds: /Game/Maps/Tash.Tash
+[2019.10.26-14.48.00:166][952]LogObjectTools: Currently 3 active worlds: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2019.10.26-14.48.00:191][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.10.26-14.48.01:450][952]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.26-14.48.01:580][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.10.26-14.48.01:611][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.10.26-14.48.01:636][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.10.26-14.48.03:100][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-14.48.03:130][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.10.26-14.48.03:309][ 83]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/ThirdPersonExampleMapA920CCBA4AA96716CF28BAB52B1EA3B4.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/ThirdPersonExampleMap.umap'
+[2019.10.26-14.48.03:316][ 83]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.218
+[2019.10.26-14.48.08:773][611]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.10.26-14.48.08:773][611]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.10.26-14.48.08:773][611]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.10.26-14.48.08:773][611]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.10.26-14.48.08:773][611]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.10.26-14.48.08:774][611]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.10.26-14.48.08:774][611]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.10.26-14.48.08:774][611]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.10.26-14.48.08:774][611]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.10.26-14.48.08:774][611]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.10.26-14.48.08:824][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2019.10.26-14.48.08:846][611]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/ThirdPersonCharacter5077DFBE40A45BEE36C08587F5E6D62B.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2019.10.26-14.48.08:877][611]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/ThirdPersonCharacterE08C93F7480DF3521E74B19DAD0261F9.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.10.26-14.48.15:715][267]LogObjectTools: Deleting 1 worlds: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.10.26-14.48.15:715][267]LogObjectTools: Currently 3 active worlds: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2019.10.26-14.48.17:639][267]LogSlate: Window 'Unable to delete level' being destroyed
+[2019.10.26-14.48.19:887][493]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.10.26-14.48.19:913][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.10.26-14.48.21:877][493]LogSlate: Window 'Save Content' being destroyed
+[2019.10.26-14.48.21:883][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2019.10.26-14.48.21:899][493]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/ThirdPersonCharacter48F1E88C49C644B219198994EB791B33.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2019.10.26-14.48.21:901][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-14.48.21:933][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.10.26-14.48.22:052][493]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/ThirdPersonExampleMapC6C872C8440DC09DB17DF8B8BFBEFBBE.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/ThirdPersonExampleMap.umap'
+[2019.10.26-14.48.22:058][493]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.156
+[2019.10.26-14.48.22:084][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.10.26-14.48.22:406][493]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/ThirdPersonExampleMap1CF3FD6746DEE9B90CCA6BA351919B43.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.10.26-14.48.22:422][493]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.364
+[2019.10.26-14.48.22:424][493]Cmd: MAP LOAD FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.26-14.48.22:424][493]LightingResults: New page: Lighting Build
+[2019.10.26-14.48.22:424][493]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.10.26-14.48.22:425][493]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-14.48.22:425][493]MapCheck: New page: Map Check
+[2019.10.26-14.48.22:425][493]LightingResults: New page: Lighting Build
+[2019.10.26-14.48.22:453][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.10.26-14.48.22:571][493]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.26-14.48.22:596][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.10.26-14.48.22:611][493]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.26-14.48.22:611][493]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,114ms to complete.
+[2019.10.26-14.48.22:612][493]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.190
+[2019.10.26-14.48.22:656][493]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.26-14.48.28:256][ 85]LogObjectTools: Deleting 1 worlds: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.10.26-14.48.28:256][ 85]LogObjectTools: Currently 3 active worlds: /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2019.10.26-14.48.28:281][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.10.26-14.48.29:956][ 85]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.26-14.48.30:126][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.10.26-14.48.30:149][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.10.26-14.48.30:175][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.10.26-14.48.30:202][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.10.26-14.48.30:226][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.10.26-14.48.48:670][594]Candidate modules for hot reload:
+[2019.10.26-14.48.48:671][594]  HouseOfHorror
+[2019.10.26-14.48.48:671][594]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=HouseOfHorror,602 Win64 Development -TargetType=Editor -Project="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/HouseOfHorror.uproject" "D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/HouseOfHorror.uproject"  -IgnoreJunk]
+[2019.10.26-14.48.48:675][594]Warning: Starting HotReload took  0.0s.
+[2019.10.26-14.49.01:331][504]CompilerResultsLog: New page: Compilation - 26 Oct 2019, 6:49:01 PM
+[2019.10.26-14.49.01:332][504]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\CatBotCrewRepos\HouseOfHorror).
+[2019.10.26-14.49.01:332][504]CompilerResultsLog: Parsing headers for HouseOfHorrorEditor
+[2019.10.26-14.49.01:332][504]CompilerResultsLog:   Running UnrealHeaderTool "D:\CatBotCrewRepos\HouseOfHorror\HouseOfHorror\HouseOfHorror.uproject" "D:\CatBotCrewRepos\HouseOfHorror\HouseOfHorror\Intermediate\Build\Win64\HouseOfHorrorEditor\Development\HouseOfHorrorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.10.26-14.49.01:332][504]CompilerResultsLog: Reflection code generated for HouseOfHorrorEditor in 8,2818705 seconds
+[2019.10.26-14.49.01:332][504]CompilerResultsLog: Using Visual Studio 2019 14.22.27905 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.10.26-14.49.01:332][504]CompilerResultsLog: Building 3 actions with 12 processes...
+[2019.10.26-14.49.01:332][504]CompilerResultsLog:   [1/3] UE4Editor-HouseOfHorror-0602.lib
+[2019.10.26-14.49.01:332][504]CompilerResultsLog:      Creating library D:\CatBotCrewRepos\HouseOfHorror\HouseOfHorror\Intermediate\Build\Win64\UE4Editor\Development\HouseOfHorror\UE4Editor-HouseOfHorror-0602.lib and object D:\CatBotCrewRepos\HouseOfHorror\HouseOfHorror\Intermediate\Build\Win64\UE4Editor\Development\HouseOfHorror\UE4Editor-HouseOfHorror-0602.exp
+[2019.10.26-14.49.01:332][504]CompilerResultsLog:   [2/3] UE4Editor-HouseOfHorror-0602.dll
+[2019.10.26-14.49.01:332][504]CompilerResultsLog:      Creating library D:\CatBotCrewRepos\HouseOfHorror\HouseOfHorror\Intermediate\Build\Win64\UE4Editor\Development\HouseOfHorror\UE4Editor-HouseOfHorror-0602.suppressed.lib and object D:\CatBotCrewRepos\HouseOfHorror\HouseOfHorror\Intermediate\Build\Win64\UE4Editor\Development\HouseOfHorror\UE4Editor-HouseOfHorror-0602.suppressed.exp
+[2019.10.26-14.49.01:332][504]CompilerResultsLog:   [3/3] HouseOfHorrorEditor.target
+[2019.10.26-14.49.01:332][504]CompilerResultsLog: Total time in Parallel executor: 2,71 seconds
+[2019.10.26-14.49.01:332][504]CompilerResultsLog: Total execution time: 12,50 seconds
+[2019.10.26-14.49.01:332][504]LogMainFrame: MainFrame: Module compiling took 12.673 seconds
+[2019.10.26-14.49.01:362][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.10.26-14.49.01:373][504]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2866 classes and 684 folders.
+[2019.10.26-14.49.01:378][504]Display: HotReload took 12.7s.
+[2019.10.26-14.49.03:093][639]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.26-14.49.03:109][639]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.26-14.49.03:109][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-14.49.03:109][639]PIE: New page: PIE session: ThirdPersonExampleMap (26 Oct 2019, 6:49:03 PM)
+[2019.10.26-14.49.03:110][639]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.26-14.49.03:122][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012420s)
+[2019.10.26-14.49.03:123][639]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.26-14.49.03:123][639]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2019.10.26-14.49.03:123][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013785s)
+[2019.10.26-14.49.03:153][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.10.26-14.49.03:162][639]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.26-14.49.03:230][639]LogInit: FAudioDevice initialized.
+[2019.10.26-14.49.03:240][639]LogLoad: Game class is 'HouseOfHorrorGameMode'
+[2019.10.26-14.49.03:242][639]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.10.26-16.49.03
+[2019.10.26-14.49.03:242][639]LogWorld: Bringing up level for play took: 0.001591
+[2019.10.26-14.49.03:242][639]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.10.26-14.49.03:245][639]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap -0,621
+[2019.10.26-14.49.03:245][639]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.26-14.49.06:503][920]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-14.49.07:260][982]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.26-14.49.07:260][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-14.49.07:260][982]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.26-14.49.07:261][982]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-14.49.07:283][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-14.49.07:283][982]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.26-14.49.07:314][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-14.49.07:316][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.10.26-14.49.07:367][986]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.10.26-14.49.12:419][449]MapCheck: New page: Map Check
+[2019.10.26-14.49.12:450][449]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.26-14.49.12:451][449]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.26-14.49.12:604][449]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2019.10.26-14.49.12:660][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.10.26-14.49.12:689][449]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-14.49.12:705][449]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-14.49.12:712][449]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2019.10.26-14.49.12:712][449]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2019.10.26-14.49.12:712][449]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-14.49.12:719][449]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-14.49.12:726][449]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-14.49.12:737][449]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2019.10.26-14.49.12:737][449]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2019.10.26-14.49.12:737][449]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2019.10.26-14.49.12:737][449]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2019.10.26-14.49.12:737][449]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2019.10.26-14.49.12:737][449]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2019.10.26-14.49.12:738][449]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-14.49.12:751][449]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-14.49.12:759][449]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-14.49.13:707][449]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2019.10.26-14.49.13:707][449]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2019.10.26-14.49.13:707][449]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2019.10.26-14.49.13:707][449]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2019.10.26-14.49.13:707][449]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2019.10.26-14.49.13:707][449]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2019.10.26-14.49.13:707][449]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2019.10.26-14.49.13:707][449]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2019.10.26-14.49.13:707][449]TextureStreamingBuild: Display: Compiling optional shaders took 1.028 seconds.
+[2019.10.26-14.49.13:751][449]LogLevel: Display: Export Material TexCoord Scales took 0.044 seconds.
+[2019.10.26-14.49.13:769][449]TextureStreamingBuild: Display: Build Texture Streaming took 0.017 seconds.
+[2019.10.26-14.49.13:795][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.10.26-14.49.13:797][449]LightingResults: New page: Lighting Build - 26 Oct 2019, 6:49:13 PM
+[2019.10.26-14.49.13:843][449]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.26-14.49.13:902][449]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.26-14.49.13:916][449]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.26-14.49.14:439][449]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.26-14.49.14:439][449]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18268
+[2019.10.26-14.49.21:520][449]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.26-14.49.21:520][449]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.26-14.49.21:520][449]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.26-14.49.21:520][449]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.26-14.49.21:520][449]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.26-14.49.21:822][449]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.10.26-14.49.21:822][449]MapCheck: New page: ThirdPersonExampleMap - 26 Oct 2019, 6:49:21 PM
+[2019.10.26-14.49.21:823][449]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2019.10.26-14.49.21:825][449]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 2,138ms to complete.
+[2019.10.26-14.49.21:826][449]LogEditorBuildUtils: Build time 0:09
+[2019.10.26-14.49.21:881][449]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.10.26-14.49.21:895][449]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.10.26-14.49.21:925][450]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2019.10.26-14.49.21:925][450]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2019.10.26-14.49.21:925][450]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2019.10.26-14.49.21:925][450]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2019.10.26-14.49.21:935][450]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2019.10.26-14.49.21:958][450]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2019.10.26-14.49.21:958][450]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2019.10.26-14.49.21:958][450]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2019.10.26-14.49.21:999][450]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2019.10.26-14.49.21:999][450]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2019.10.26-14.49.22:057][451]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2019.10.26-14.49.22:074][451]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2019.10.26-14.49.22:170][452]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.10.26-14.49.22:193][452]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.10.26-14.49.23:349][453]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2019.10.26-14.49.23:349][453]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2019.10.26-14.49.23:349][453]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2019.10.26-14.49.23:349][453]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2019.10.26-14.49.23:349][453]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2019.10.26-14.49.23:349][453]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2019.10.26-14.49.23:349][453]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2019.10.26-14.49.23:622][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.10.26-14.49.27:923][603]Job is a success!
+[2019.10.26-14.49.29:229][604]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2019.10.26-14.49.29:229][604]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.26-14.49.29:229][604]LogVolumetricLightmapImport:      BrickData 240x5x5 = 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.10.26-14.49.29:229][604]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.26-14.49.29:229][604]LogVolumetricLightmapImport:          0: 2.1% covering 100.0% of volume
+[2019.10.26-14.49.29:229][604]LogVolumetricLightmapImport:          1: 8.3% covering 6.3% of volume
+[2019.10.26-14.49.29:229][604]LogVolumetricLightmapImport:          2: 89.6% covering 1.0% of volume
+[2019.10.26-14.49.29:614][604]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.10.26-14.49.29:614][604]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.10.26-14.49.29:614][604]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.10.26-14.49.29:614][604]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2019.10.26-14.49.29:614][604]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2019.10.26-14.49.29:614][604]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2019.10.26-14.49.29:614][604]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2019.10.26-14.49.29:614][604]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.10.26-14.49.29:614][604]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.10.26-14.49.29:823][604]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.10.26-14.49.29:823][604]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2019.10.26-14.49.29:872][604]Lightmass on LAPTOP-N1MLQP4I: 5.39 sec total, 185 ms importing, 31 ms setup, 864 ms photons, 4.28 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 47.0 sec total, 8.25 sec processing.
+[2019.10.26-14.49.29:882][604]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 12 meshes in 3 LightmapResourceClusters (4.0 Meshes per cluster).
+[2019.10.26-14.49.29:916][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.10.26-14.49.29:935][604]LogStaticLightingSystem: Illumination: 16.0 sec (349 ms encoding lightmaps, 207 ms encoding shadowmaps)
+[2019.10.26-14.49.29:935][604]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.10.26-14.49.29:935][604]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.10.26-14.49.30:534][604]DumpUnbuiltLightIteractions
+[2019.10.26-14.49.30:534][604]Lights with unbuilt interactions: 0
+[2019.10.26-14.49.30:534][604]
+[2019.10.26-14.49.30:534][604]Primitives with unbuilt interactions: 0
+[2019.10.26-14.49.30:646][605]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.26-14.49.30:646][605]MapCheck: New page: ThirdPersonExampleMap - 26 Oct 2019, 6:49:30 PM
+[2019.10.26-14.49.30:647][605]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,772ms to complete.
+[2019.10.26-14.49.32:435][711]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-14.49.32:453][711]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-14.49.36:790][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-14.49.36:818][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.10.26-14.49.36:937][156]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/ThirdPersonExampleMapA00A4A89413750747E8406961C8D6067.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/ThirdPersonExampleMap.umap'
+[2019.10.26-14.49.37:129][156]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.338
+[2019.10.26-14.49.38:700][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap_BuiltData" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2019.10.26-14.49.38:779][306]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/ThirdPersonExampleMap_BuiltData53986C564035E4FA32A89F9520EB7D51.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.10.26-14.49.47:214][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.10.26-14.49.47:306][159]LogAIModule: Creating AISystem for world TashMap
+[2019.10.26-14.49.48:683][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TashMap" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-14.49.48:712][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.10.26-14.49.48:941][301]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/TashMap61B54078444CF92AA93DE99D1664CCF0.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap.umap'
+[2019.10.26-14.49.48:947][301]LogFileHelpers: Saving map 'TashMap' took 0.264
+[2019.10.26-14.49.56:893][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.10.26-14.49.56:981][ 89]LogAIModule: Creating AISystem for world EmilieMap
+[2019.10.26-14.49.58:320][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EmilieMap" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/EmilieMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-14.49.58:357][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.10.26-14.49.58:465][215]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/EmilieMap90CE621444A8264050DD67AEFBAFD545.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/EmilieMap.umap'
+[2019.10.26-14.49.58:471][215]LogFileHelpers: Saving map 'EmilieMap' took 0.151
+[2019.10.26-14.50.07:115][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.10.26-14.50.07:194][ 33]LogAIModule: Creating AISystem for world MoaMap
+[2019.10.26-14.50.08:025][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MoaMap" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/MoaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-14.50.08:054][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.10.26-14.50.08:152][126]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/MoaMap1EC9E92A40FEF22B47F7DA96C1F1C98A.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/MoaMap.umap'
+[2019.10.26-14.50.08:159][126]LogFileHelpers: Saving map 'MoaMap' took 0.134
+[2019.10.26-14.50.21:148][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.10.26-14.50.21:149][578]LogMetaData: Removing '/Game/Maps/MainLevelDesignMap.SKEL_MainLevelDesignMap_C' ref from Metadata '/Game/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2019.10.26-14.50.21:149][578]LogMetaData: Removing '/Game/Maps/MainLevelDesignMap.MainLevelDesignMap_C' ref from Metadata '/Game/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2019.10.26-14.50.21:174][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevelDesignMap_BuiltData" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/MainLevelDesignMap_BuiltData.uasset" SILENT=true
+[2019.10.26-14.50.21:249][578]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/MainLevelDesignMap_BuiltDataA17A810B4ED5003394AACAA318842A0F.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/MainLevelDesignMap_BuiltData.uasset'
+[2019.10.26-14.50.21:254][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevelDesignMap" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/MainLevelDesignMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-14.50.21:281][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.10.26-14.50.21:384][578]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/MainLevelDesignMap942F15BC45FEEB5773EFD5831E4FCEE7.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/MainLevelDesignMap.umap'
+[2019.10.26-14.50.21:395][578]LogFileHelpers: Saving map 'MainLevelDesignMap' took 0.142
+[2019.10.26-14.50.21:539][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.10.26-14.50.21:562][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.10.26-14.50.21:590][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.10.26-14.50.21:616][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.10.26-14.50.23:926][812]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/TashMap.TashMap
+[2019.10.26-14.50.23:952][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.10.26-14.50.23:953][812]Cmd: MAP LOAD FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.26-14.50.23:953][812]LightingResults: New page: Lighting Build
+[2019.10.26-14.50.23:953][812]LoadErrors: New page: Loading map: TashMap.umap
+[2019.10.26-14.50.23:954][812]LogWorld: UWorld::CleanupWorld for MainLevelDesignMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-14.50.23:954][812]MapCheck: New page: Map Check
+[2019.10.26-14.50.23:954][812]LightingResults: New page: Lighting Build
+[2019.10.26-14.50.23:981][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.10.26-14.50.24:004][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.10.26-14.50.24:029][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.10.26-14.50.24:053][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.10.26-14.50.24:196][812]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.26-14.50.24:221][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.10.26-14.50.24:235][812]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.26-14.50.24:235][812]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,121ms to complete.
+[2019.10.26-14.50.24:236][812]LogFileHelpers: Loading map 'TashMap' took 0.285
+[2019.10.26-14.50.27:348][107]LogAIModule: Creating AISystem for world MainLevelDesignMap
+[2019.10.26-14.50.33:688][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.10.26-14.50.33:763][798]LogAIModule: Creating AISystem for world PixieMap
+[2019.10.26-14.50.34:686][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PixieMap" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/PixieMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-14.50.34:717][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.10.26-14.50.34:822][903]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/PixieMapC04953474FD2A0AB629439AE81BF2388.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/PixieMap.umap'
+[2019.10.26-14.50.34:828][903]LogFileHelpers: Saving map 'PixieMap' took 0.142
+[2019.10.26-14.51.12:809][ 22]MapCheck: New page: Map Check
+[2019.10.26-14.51.12:841][ 22]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.26-14.51.12:841][ 22]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.26-14.51.13:011][ 22]LogWorld: UWorld::CleanupWorld for TashMap, bSessionEnded=true, bCleanupResources=false
+[2019.10.26-14.51.13:042][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.10.26-14.51.13:059][ 22]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-14.51.13:067][ 22]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-14.51.13:074][ 22]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2019.10.26-14.51.13:074][ 22]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2019.10.26-14.51.13:074][ 22]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-14.51.13:086][ 22]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-14.51.13:094][ 22]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-14.51.13:104][ 22]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2019.10.26-14.51.13:104][ 22]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2019.10.26-14.51.13:104][ 22]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2019.10.26-14.51.13:104][ 22]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2019.10.26-14.51.13:104][ 22]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2019.10.26-14.51.13:104][ 22]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2019.10.26-14.51.13:104][ 22]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-14.51.13:113][ 22]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-14.51.13:123][ 22]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-14.51.13:846][ 22]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2019.10.26-14.51.13:846][ 22]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2019.10.26-14.51.13:846][ 22]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2019.10.26-14.51.13:846][ 22]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2019.10.26-14.51.13:846][ 22]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2019.10.26-14.51.13:846][ 22]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2019.10.26-14.51.13:846][ 22]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2019.10.26-14.51.13:846][ 22]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2019.10.26-14.51.13:846][ 22]TextureStreamingBuild: Display: Compiling optional shaders took 0.790 seconds.
+[2019.10.26-14.51.13:855][ 22]LogLevel: Display: Export Material TexCoord Scales took 0.009 seconds.
+[2019.10.26-14.51.13:870][ 22]TextureStreamingBuild: Display: Build Texture Streaming took 0.015 seconds.
+[2019.10.26-14.51.13:894][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2019.10.26-14.51.13:895][ 22]LightingResults: New page: Lighting Build - 26 Oct 2019, 6:51:13 PM
+[2019.10.26-14.51.13:900][ 22]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.26-14.51.13:905][ 22]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.26-14.51.13:905][ 22]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.26-14.51.13:906][ 22]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.26-14.51.13:906][ 22]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18268
+[2019.10.26-14.51.18:430][ 22]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.26-14.51.18:430][ 22]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.26-14.51.18:430][ 22]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.26-14.51.18:431][ 22]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.26-14.51.18:431][ 22]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.26-14.51.18:585][ 22]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.10.26-14.51.18:585][ 22]MapCheck: New page: TashMap - 26 Oct 2019, 6:51:18 PM
+[2019.10.26-14.51.18:585][ 22]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2019.10.26-14.51.18:585][ 22]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0,392ms to complete.
+[2019.10.26-14.51.18:587][ 22]LogEditorBuildUtils: Build time 0:05
+[2019.10.26-14.51.18:826][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.10.26-14.51.22:207][159]Job is a success!
+[2019.10.26-14.51.23:338][160]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2019.10.26-14.51.23:338][160]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.26-14.51.23:338][160]LogVolumetricLightmapImport:      BrickData 240x5x5 = 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.10.26-14.51.23:338][160]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.26-14.51.23:338][160]LogVolumetricLightmapImport:          0: 2.1% covering 100.0% of volume
+[2019.10.26-14.51.23:338][160]LogVolumetricLightmapImport:          1: 8.3% covering 6.3% of volume
+[2019.10.26-14.51.23:338][160]LogVolumetricLightmapImport:          2: 89.6% covering 1.0% of volume
+[2019.10.26-14.51.23:683][160]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.10.26-14.51.23:683][160]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.10.26-14.51.23:683][160]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.10.26-14.51.23:683][160]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2019.10.26-14.51.23:683][160]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2019.10.26-14.51.23:683][160]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2019.10.26-14.51.23:683][160]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2019.10.26-14.51.23:683][160]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.10.26-14.51.23:683][160]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.10.26-14.51.23:896][160]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.10.26-14.51.23:896][160]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2019.10.26-14.51.23:930][160]Lightmass on LAPTOP-N1MLQP4I: 4.69 sec total, 189 ms importing, 25 ms setup, 776 ms photons, 3.67 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 40.4 sec total, 6.21 sec processing.
+[2019.10.26-14.51.23:949][160]LogStaticLightingSystem: TashMap_BuiltData storing lightmap data for 12 meshes in 3 LightmapResourceClusters (4.0 Meshes per cluster).
+[2019.10.26-14.51.23:976][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2019.10.26-14.51.23:994][160]LogStaticLightingSystem: Illumination: 10.0 sec (307 ms encoding lightmaps, 212 ms encoding shadowmaps)
+[2019.10.26-14.51.23:994][160]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.10.26-14.51.23:994][160]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.10.26-14.51.24:446][160]DumpUnbuiltLightIteractions
+[2019.10.26-14.51.24:446][160]Lights with unbuilt interactions: 0
+[2019.10.26-14.51.24:446][160]
+[2019.10.26-14.51.24:446][160]Primitives with unbuilt interactions: 0
+[2019.10.26-14.51.24:546][161]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.26-14.51.24:546][161]MapCheck: New page: TashMap - 26 Oct 2019, 6:51:24 PM
+[2019.10.26-14.51.24:546][161]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,348ms to complete.
+[2019.10.26-14.51.26:836][312]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-14.51.26:853][312]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-14.51.27:499][373]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.26-14.51.27:509][373]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TashMap.TashMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TashMap.TashMap:PersistentLevel.TashMap' with GeneratedClass '/Game/Maps/TashMap.TashMap_C' with ClassGeneratedBy '/Game/Maps/TashMap.TashMap:PersistentLevel.TashMap'
+[2019.10.26-14.51.27:509][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-14.51.27:509][373]PIE: New page: PIE session: TashMap (26 Oct 2019, 6:51:27 PM)
+[2019.10.26-14.51.27:509][373]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TashMap
+[2019.10.26-14.51.27:521][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011419s)
+[2019.10.26-14.51.27:522][373]LogAIModule: Creating AISystem for world TashMap
+[2019.10.26-14.51.27:522][373]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2019.10.26-14.51.27:522][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TashMap.TashMap to /Game/Maps/UEDPIE_0_TashMap.TashMap (0.013032s)
+[2019.10.26-14.51.27:547][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.10.26-14.51.27:554][373]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.26-14.51.27:611][373]LogInit: FAudioDevice initialized.
+[2019.10.26-14.51.27:617][373]LogLoad: Game class is 'HouseOfHorrorGameMode'
+[2019.10.26-14.51.27:619][373]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TashMap.TashMap up for play (max tick rate 0) at 2019.10.26-16.51.27
+[2019.10.26-14.51.27:619][373]LogWorld: Bringing up level for play took: 0.001250
+[2019.10.26-14.51.27:620][373]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.10.26-14.51.27:621][373]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TashMap -0,245
+[2019.10.26-14.51.27:621][373]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TashMap.TashMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TashMap.TashMap:PersistentLevel.TashMap' with GeneratedClass '/Game/Maps/TashMap.TashMap_C' with ClassGeneratedBy '/Game/Maps/TashMap.TashMap:PersistentLevel.TashMap'
+[2019.10.26-14.51.30:225][677]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-14.51.31:058][769]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TashMap.TashMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TashMap.TashMap:PersistentLevel.TashMap' with GeneratedClass '/Game/Maps/TashMap.TashMap_C' with ClassGeneratedBy '/Game/Maps/TashMap.TashMap:PersistentLevel.TashMap'
+[2019.10.26-14.51.31:058][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-14.51.31:058][769]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TashMap
+[2019.10.26-14.51.31:058][769]LogWorld: UWorld::CleanupWorld for TashMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-14.51.31:073][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-14.51.31:073][769]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TashMap.TashMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TashMap.TashMap:PersistentLevel.TashMap' with GeneratedClass '/Game/Maps/TashMap.TashMap_C' with ClassGeneratedBy '/Game/Maps/TashMap.TashMap:PersistentLevel.TashMap'
+[2019.10.26-14.51.31:105][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-14.51.31:107][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.10.26-14.51.31:161][774]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.26-14.51.34:485][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TashMap" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-14.51.34:510][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.10.26-14.51.34:615][130]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/TashMap041F86C949726E120DF144987F231DD0.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap.umap'
+[2019.10.26-14.51.34:628][130]LogFileHelpers: Saving map 'TashMap' took 0.143
+[2019.10.26-14.51.35:824][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TashMap_BuiltData" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap_BuiltData.uasset" SILENT=true
+[2019.10.26-14.51.35:899][255]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/TashMap_BuiltData6CA1C9BE403A193D52983A9DB0256948.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap_BuiltData.uasset'
+[2019.10.26-14.51.37:424][418]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/TashMap.TashMap
+[2019.10.26-14.51.37:450][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.10.26-14.51.37:451][418]Cmd: MAP LOAD FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.26-14.51.37:451][418]LightingResults: New page: Lighting Build
+[2019.10.26-14.51.37:451][418]LoadErrors: New page: Loading map: TashMap.umap
+[2019.10.26-14.51.37:452][418]LogWorld: UWorld::CleanupWorld for TashMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-14.51.37:452][418]MapCheck: New page: Map Check
+[2019.10.26-14.51.37:452][418]LightingResults: New page: Lighting Build
+[2019.10.26-14.51.37:480][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.10.26-14.51.37:505][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.10.26-14.51.37:530][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.10.26-14.51.37:553][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.10.26-14.51.37:567][418]LogAIModule: Creating AISystem for world TashMap
+[2019.10.26-14.51.37:774][418]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.26-14.51.37:801][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.10.26-14.51.37:806][418]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.26-14.51.37:807][418]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,084ms to complete.
+[2019.10.26-14.51.37:808][418]LogFileHelpers: Loading map 'TashMap' took 0.357
+[2019.10.26-14.51.40:043][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TashMap" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-14.51.40:069][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.10.26-14.51.40:171][669]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/TashMapB857CC3F4959827AC9111D8805441986.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap.umap'
+[2019.10.26-14.51.40:179][669]LogFileHelpers: Saving map 'TashMap' took 0.138
+[2019.10.26-14.52.08:678][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TashMap" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-14.52.08:702][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.10.26-14.52.08:795][867]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/TashMapAF1A74274F2C18916660949094D4CE23.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap.umap'
+[2019.10.26-14.52.08:806][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TashMap_BuiltData" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap_BuiltData.uasset" SILENT=true
+[2019.10.26-14.52.08:920][867]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/TashMap_BuiltData7B06E10F4C57A635E9A96698CB08015C.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap_BuiltData.uasset'
+[2019.10.26-14.52.09:939][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TashMap" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-14.52.09:965][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.10.26-14.52.11:345][984]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/TashMap9592ECA042C03A02441369B349C214BF.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap.umap'
+[2019.10.26-14.52.11:358][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TashMap_BuiltData" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap_BuiltData.uasset" SILENT=true
+[2019.10.26-14.52.11:431][984]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/TashMap_BuiltData5A324EF74F3A22A3847B85B2CAABB7D4.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap_BuiltData.uasset'
+[2019.10.26-14.52.20:853][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TashMap" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-14.52.20:878][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.10.26-14.52.21:830][920]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/TashMap52B5A98F4EADA28C865ECA8F96670CE0.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap.umap'
+[2019.10.26-14.52.21:926][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TashMap_BuiltData" FILE="D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap_BuiltData.uasset" SILENT=true
+[2019.10.26-14.52.22:003][920]LogSavePackage: Moving 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Saved/TashMap_BuiltData9F3E267D45E7E2E55F64BC90B6BF3311.tmp' to 'D:/CatBotCrewRepos/HouseOfHorror/HouseOfHorror/Content/Maps/TashMap_BuiltData.uasset'
+[2019.10.26-14.53.05:339][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.10.26-14.53.05:383][814]LogSlate: Window 'HouseOfHorror - Unreal Editor' being destroyed
+[2019.10.26-14.53.05:385][814]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.26-14.53.05:540][815]Cmd: QUIT_EDITOR
+[2019.10.26-14.53.06:291][815]LogExit: Preparing to exit.
+[2019.10.26-14.53.09:025][815]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.26-14.53.09:025][815]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.26-14.53.09:025][815]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.26-14.53.09:025][815]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.26-14.53.09:025][815]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.26-14.53.09:025][815]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.26-14.53.09:025][815]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.26-14.53.09:025][815]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-14.53.09:026][815]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-14.53.09:026][815]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-14.53.09:029][815]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.10.26-14.53.09:036][815]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-14.53.09:036][815]LogExit: Editor shut down
+[2019.10.26-14.53.09:036][815]LogExit: Transaction tracking system shut down
+[2019.10.26-14.53.09:245][815]LogExit: Object subsystem successfully closed.
+[2019.10.26-14.53.09:268][815]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.26-14.53.09:294][815]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (677)
+[2019.10.26-14.53.09:294][815]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (675)
+[2019.10.26-14.53.09:294][815]LogModuleManager: Shutting down and abandoning module Voice (673)
+[2019.10.26-14.53.09:295][815]LogModuleManager: Shutting down and abandoning module HouseOfHorror (671)
+[2019.10.26-14.53.09:295][815]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (670)
+[2019.10.26-14.53.09:295][815]LogModuleManager: Shutting down and abandoning module SceneOutliner (668)
+[2019.10.26-14.53.09:295][815]LogModuleManager: Shutting down and abandoning module AddContentDialog (666)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module WidgetCarousel (665)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module EditorWidgets (662)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module CollectionManager (660)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module StatsViewer (658)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (656)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module FoliageEdit (654)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module LandscapeEditor (652)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module MeshPaintMode (650)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (648)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module ActorPickerMode (646)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module GeometryMode (644)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module TextureAlignMode (642)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module BspMode (640)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (638)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (636)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module AutomationWorker (634)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module OculusMR (632)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (630)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (628)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (626)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module PlacementMode (625)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module MaterialEditor (624)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (620)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (618)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (616)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (614)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (612)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module WebMMedia (610)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (608)
+[2019.10.26-14.53.09:296][815]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (606)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module SequenceRecorder (605)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (602)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (600)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (598)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (596)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (594)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (592)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (590)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (588)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (586)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (584)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (582)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module CharacterAI (580)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module SmartSnapping (578)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module SessionServices (576)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module MeshPaint (574)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module ViewportSnapping (572)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module ViewportInteraction (570)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module ClothPainter (568)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (567)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module LogVisualizer (564)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module IntroTutorials (562)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (561)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (558)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (556)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (554)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (552)
+[2019.10.26-14.53.09:297][815]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (551)
+[2019.10.26-14.53.10:614][815]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (548)
+[2019.10.26-14.53.10:614][815]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (546)
+[2019.10.26-14.53.10:614][815]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (544)
+[2019.10.26-14.53.10:614][815]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (542)
+[2019.10.26-14.53.10:614][815]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (540)
+[2019.10.26-14.53.10:614][815]LogModuleManager: Shutting down and abandoning module InputBindingEditor (538)
+[2019.10.26-14.53.10:614][815]LogModuleManager: Shutting down and abandoning module MergeActors (536)
+[2019.10.26-14.53.10:614][815]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (534)
+[2019.10.26-14.53.10:614][815]LogModuleManager: Shutting down and abandoning module LocalizationService (533)
+[2019.10.26-14.53.10:615][815]LogModuleManager: Shutting down and abandoning module HardwareTargeting (530)
+[2019.10.26-14.53.10:615][815]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (528)
+[2019.10.26-14.53.10:615][815]LogModuleManager: Shutting down and abandoning module UndoHistory (526)
+[2019.10.26-14.53.10:615][815]LogModuleManager: Shutting down and abandoning module XmlParser (524)
+[2019.10.26-14.53.10:615][815]LogModuleManager: Shutting down and abandoning module Blutility (522)
+[2019.10.26-14.53.10:615][815]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (520)
+[2019.10.26-14.53.10:615][815]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (519)
+[2019.10.26-14.53.10:615][815]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (516)
+[2019.10.26-14.53.10:615][815]LogModuleManager: Shutting down and abandoning module SettingsEditor (514)
+[2019.10.26-14.53.10:615][815]LogModuleManager: Shutting down and abandoning module ProjectLauncher (512)
+[2019.10.26-14.53.10:615][815]LogModuleManager: Shutting down and abandoning module SessionFrontend (510)
+[2019.10.26-14.53.10:615][815]LogModuleManager: Shutting down and abandoning module ProfilerClient (508)
+[2019.10.26-14.53.10:615][815]LogModuleManager: Shutting down and abandoning module DeviceManager (506)
+[2019.10.26-14.53.10:615][815]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (505)
+[2019.10.26-14.53.10:670][815]LogModuleManager: Shutting down and abandoning module AutomationController (502)
+[2019.10.26-14.53.10:670][815]LogModuleManager: Shutting down and abandoning module AutomationWindow (500)
+[2019.10.26-14.53.10:670][815]LogModuleManager: Shutting down and abandoning module Layers (498)
+[2019.10.26-14.53.10:670][815]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (496)
+[2019.10.26-14.53.10:670][815]LogModuleManager: Shutting down and abandoning module DetailCustomizations (494)
+[2019.10.26-14.53.10:670][815]LogModuleManager: Shutting down and abandoning module PackagesDialog (492)
+[2019.10.26-14.53.10:670][815]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (490)
+[2019.10.26-14.53.10:670][815]LogModuleManager: Shutting down and abandoning module Persona (488)
+[2019.10.26-14.53.10:670][815]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (487)
+[2019.10.26-14.53.10:670][815]LogModuleManager: Shutting down and abandoning module AnimGraph (485)
+[2019.10.26-14.53.10:670][815]LogModuleManager: Shutting down and abandoning module Kismet (482)
+[2019.10.26-14.53.10:670][815]LogModuleManager: Shutting down and abandoning module KismetWidgets (481)
+[2019.10.26-14.53.10:670][815]LogModuleManager: Shutting down and abandoning module GraphEditor (478)
+[2019.10.26-14.53.10:670][815]LogModuleManager: Shutting down and abandoning module StructViewer (476)
+[2019.10.26-14.53.10:670][815]LogModuleManager: Shutting down and abandoning module ClassViewer (474)
+[2019.10.26-14.53.10:670][815]LogModuleManager: Shutting down and abandoning module Toolbox (472)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module DesktopPlatform (471)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.10.26-14.53.10:671][815]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (430)
+[2019.10.26-14.53.10:674][815]LogModuleManager: Shutting down and abandoning module ProfilerService (428)
+[2019.10.26-14.53.10:827][815]LogModuleManager: Shutting down and abandoning module TaskGraph (426)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module ScreenshotTools (424)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module SteamVRController (422)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (420)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (418)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module OculusEditor (416)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module OculusInput (414)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (412)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module EditableMesh (410)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (408)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module CableComponent (406)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module AudioCapture (404)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (402)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (400)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module AppleImageUtils (398)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module AndroidPermission (396)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (394)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (392)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module MediaCompositing (390)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module ImgMedia (388)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (386)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (384)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (382)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module HTML5Networking (380)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (378)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (376)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module BackChannel (374)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (372)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module AutomationUtils (370)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module AlembicImporter (368)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module AlembicLibrary (367)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module GeometryCache (366)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (365)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module VariantManagerContent (360)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (358)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (356)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module PluginBrowser (354)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (352)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (350)
+[2019.10.26-14.53.10:828][815]LogModuleManager: Shutting down and abandoning module CurveEditorTools (348)
+[2019.10.26-14.53.10:829][815]LogModuleManager: Shutting down and abandoning module CurveEditor (347)
+[2019.10.26-14.53.10:829][815]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (344)
+[2019.10.26-14.53.10:829][815]LogModuleManager: Shutting down and abandoning module CryptoKeys (342)
+[2019.10.26-14.53.10:829][815]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (340)
+[2019.10.26-14.53.10:829][815]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (338)
+[2019.10.26-14.53.10:829][815]LogModuleManager: Shutting down and abandoning module UObjectPlugin (336)
+[2019.10.26-14.53.10:829][815]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (334)
+[2019.10.26-14.53.10:829][815]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (332)
+[2019.10.26-14.53.10:829][815]LogModuleManager: Shutting down and abandoning module GitSourceControl (330)
+[2019.10.26-14.53.10:829][815]LogModuleManager: Shutting down and abandoning module SourceControl (329)
+[2019.10.26-14.53.10:829][815]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (326)
+[2019.10.26-14.53.10:829][815]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (324)
+[2019.10.26-14.53.10:829][815]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (322)
+[2019.10.26-14.53.10:829][815]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (320)
+[2019.10.26-14.53.10:829][815]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (318)
+[2019.10.26-14.53.10:829][815]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (316)
+[2019.10.26-14.53.10:829][815]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (314)
+[2019.10.26-14.53.10:829][815]LogModuleManager: Shutting down and abandoning module Paper2DEditor (312)
+[2019.10.26-14.53.10:829][815]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.10.26-14.53.10:830][815]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.10.26-14.53.10:830][815]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.10.26-14.53.10:830][815]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.10.26-14.53.10:830][815]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.10.26-14.53.10:830][815]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.10.26-14.53.10:931][815]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.10.26-14.53.11:032][815]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.10.26-14.53.11:032][815]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.10.26-14.53.11:032][815]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.10.26-14.53.11:032][815]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.10.26-14.53.11:032][815]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.10.26-14.53.11:032][815]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.26-14.53.11:032][815]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.10.26-14.53.11:032][815]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.10.26-14.53.11:032][815]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.10.26-14.53.11:032][815]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.10.26-14.53.11:032][815]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.10.26-14.53.11:032][815]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.10.26-14.53.11:032][815]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.10.26-14.53.11:032][815]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.10.26-14.53.11:032][815]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.10.26-14.53.11:033][815]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.10.26-14.53.11:033][815]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.10.26-14.53.11:033][815]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.10.26-14.53.11:033][815]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.10.26-14.53.11:034][815]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.10.26-14.53.11:034][815]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.10.26-14.53.11:034][815]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.10.26-14.53.11:034][815]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.10.26-14.53.11:034][815]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.10.26-14.53.11:036][815]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.10.26-14.53.11:037][815]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.10.26-14.53.11:037][815]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.10.26-14.53.11:037][815]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.10.26-14.53.11:037][815]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.10.26-14.53.11:037][815]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.10.26-14.53.11:037][815]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.10.26-14.53.11:037][815]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.10.26-14.53.11:037][815]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.10.26-14.53.11:037][815]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.10.26-14.53.11:037][815]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.10.26-14.53.11:037][815]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.10.26-14.53.11:037][815]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.10.26-14.53.11:037][815]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.10.26-14.53.11:037][815]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.10.26-14.53.11:037][815]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.10.26-14.53.11:037][815]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.10.26-14.53.11:037][815]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.10.26-14.53.11:137][815]LogDerivedDataCache: Shutdown
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.10.26-14.53.11:138][815]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.10.26-14.53.11:139][815]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.10.26-14.53.11:139][815]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.10.26-14.53.11:139][815]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.10.26-14.53.11:139][815]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.10.26-14.53.11:140][815]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.10.26-14.53.11:140][815]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.10.26-14.53.11:150][815]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.10.26-14.53.11:150][815]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.10.26-14.53.11:151][815]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.10.26-14.53.11:151][815]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.10.26-14.53.11:184][815]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.10.26-14.53.11:184][815]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.26-14.53.11:184][815]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BECFA7424-4DC0-AA0C-C335-DD822C418DDD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=7ea9a1e24788d55e76715aa9b50dcceb%7Cd8995868f55d44518bf65aa2ef4e43db%7C66649a69-8b5c-416e-84f2-acacfda08d99&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.26-14.53.11:187][815]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.10.26-14.53.11:188][815]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.10.26-14.53.11:189][815]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.10.26-14.53.11:189][815]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.10.26-14.53.11:189][815]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.10.26-14.53.11:190][815]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.10.26-14.53.11:190][815]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.10.26-14.53.11:190][815]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.10.26-14.53.11:190][815]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.10.26-14.53.11:190][815]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.10.26-14.53.11:190][815]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.10.26-14.53.11:191][815]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.10.26-14.53.11:191][815]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.10.26-14.53.11:191][815]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.10.26-14.53.11:191][815]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.10.26-14.53.11:191][815]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.10.26-14.53.11:191][815]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.10.26-14.53.11:191][815]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.10.26-14.53.11:191][815]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.10.26-14.53.11:192][815]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.10.26-14.53.11:192][815]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.10.26-14.53.11:192][815]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.10.26-14.53.11:192][815]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.10.26-14.53.11:192][815]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.10.26-14.53.11:192][815]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.10.26-14.53.11:192][815]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.10.26-14.53.11:192][815]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.10.26-14.53.11:192][815]LogD3D11RHI: Shutdown
+[2019.10.26-14.53.11:192][815]LogD3D11RHI: CleanupD3DDevice
+[2019.10.26-14.53.11:193][815]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.26-14.53.11:193][815]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.26-14.53.11:193][815]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.26-14.53.11:298][815]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.26-14.53.11:311][815]LogExit: Exiting.
+[2019.10.26-14.53.11:416][815]Log file closed, 10/26/19 16:53:11

@@ -1,0 +1,3 @@
+D:\CatBotCrewRepos\HouseOfHorror\HouseOfHorror\Source\HouseOfHorror\HouseOfHorror.Build.cs
+D:\CatBotCrewRepos\HouseOfHorror\HouseOfHorror\Source\HouseOfHorror.Target.cs
+D:\CatBotCrewRepos\HouseOfHorror\HouseOfHorror\Source\HouseOfHorrorEditor.Target.cs

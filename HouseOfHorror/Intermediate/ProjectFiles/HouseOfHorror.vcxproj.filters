@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HouseOfHorror.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{01ADBBCE-B198-45F6-BF93-897A81653833}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HouseOfHorror.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HouseOfHorrorEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A58FA3A7-3CA8-4400-848B-BAD7A77D8F19}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HouseOfHorror">
+      <UniqueIdentifier>{5CBCA6B3-3451-4C29-8DEA-CB88BAAEC5E6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HouseOfHorror\HouseOfHorror.Build.cs">
+      <Filter>Source\HouseOfHorror</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HouseOfHorror\HouseOfHorror.cpp">
+      <Filter>Source\HouseOfHorror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HouseOfHorror\HouseOfHorror.h">
+      <Filter>Source\HouseOfHorror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HouseOfHorror\HouseOfHorrorCharacter.cpp">
+      <Filter>Source\HouseOfHorror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HouseOfHorror\HouseOfHorrorCharacter.h">
+      <Filter>Source\HouseOfHorror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HouseOfHorror\HouseOfHorrorGameMode.cpp">
+      <Filter>Source\HouseOfHorror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HouseOfHorror\HouseOfHorrorGameMode.h">
+      <Filter>Source\HouseOfHorror</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
